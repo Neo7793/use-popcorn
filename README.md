@@ -4,6 +4,11 @@ A website that is done with jonas schemdtmann in ultimate react course. you can 
 # 
 https://github.com/Neo7793/use-popcorn/assets/134860589/4fe6278f-b035-4d97-a8e8-2a117f1df964
 
+# You can check it on :
+
+https://sina-use-popcorn.netlify.app/
+
+
 # Skills that used in this project
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
